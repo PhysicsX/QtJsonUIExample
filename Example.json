@@ -1,0 +1,32 @@
+{
+
+    "appconfig":
+    {
+
+            "tags" : [
+
+                    {
+                      "name" : "aliş",
+                      "address" : "400023",
+                      "type" : "DS"
+                    },
+                    {
+                      "name" : "ahmet",
+                      "address" : "400025",
+                      "type" : "DD"
+                    },
+                    {
+                      "name" : "memet",
+                      "address" : "400027",
+                      "type" : "DF"
+                    },
+                    {
+                      "name" : "leyla",
+                      "address" : "400028",
+                      "type" : "DF"
+                    }
+
+            ],
+
+           }
+}

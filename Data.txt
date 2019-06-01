@@ -1,0 +1,24 @@
+{
+    "tags": [
+        {
+            "address": "400023",
+            "name": "aliş",
+            "type": "DS"
+        },
+        {
+            "address": "400025",
+            "name": "ahmet",
+            "type": "DD"
+        },
+        {
+            "address": "400027",
+            "name": "memet",
+            "type": "DF"
+        },
+        {
+            "address": "400028",
+            "name": "leyla",
+            "type": "DF"
+        }
+    ]
+}
